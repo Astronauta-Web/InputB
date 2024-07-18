@@ -1,0 +1,33 @@
+body {
+  background-color: #EEEEEE;
+}
+
+div {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+label {
+  color: #EEEEEE;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+  margin-top: 20px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  width: 90px;
+}
+
+div {
+  background-color: #508C9B;
+}
